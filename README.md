@@ -1,50 +1,28 @@
-# Welcome to your Expo app 👋
+This project is part of my React Native learning journey.
+I’m building hands-on projects to strengthen my understanding of mobile development concepts and improve through real practice.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+What I practiced in this project:
 
-## Get started
+React Native core components
 
-1. Install dependencies
+Functional components and React hooks
 
-   ```bash
-   npm install
-   ```
+State management using useState and useEffect
 
-2. Start the app
+Component structure and reusability
 
-   ```bash
-   npx expo start
-   ```
+Styling using Flexbox and StyleSheet
 
-In the output, you'll find options to open the app in a
+Features included:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Dynamic UI rendering
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+User interaction handling
 
-## Get a fresh project
+Clean and simple layout
 
-When you're ready, run:
+Responsive design principles
 
-```bash
-npm run reset-project
-```
+Compared to my previous projects, I focused more on writing cleaner code and organizing components better.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+This project reflects my current learning progress and my commitment to improving my React Native skills step by step.
