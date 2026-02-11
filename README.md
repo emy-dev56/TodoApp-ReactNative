@@ -1,28 +1,36 @@
-This project is part of my React Native learning journey.
-I’m building hands-on projects to strengthen my understanding of mobile development concepts and improve through real practice.
+# Todo App – React Native
 
-What I practiced in this project:
+This Todo App is part of my React Native learning journey.  
+I build small, practical projects to understand real mobile app structure, state management, and UI behavior through hands-on practice.
 
-React Native core components
+## 🚀 What I Practiced
 
-Functional components and React hooks
+- React Native core components (`View`, `Text`, `TextInput`, `TouchableOpacity`, `FlatList`)
+- Functional components and React Hooks
+- State management using `useState`
+- Handling user input and basic validation
+- Rendering dynamic lists efficiently
+- Styling using Flexbox and `StyleSheet`
+- Organizing components and project structure
+- Using context API
 
-State management using useState and useEffect
+## ✨ Features
 
-Component structure and reusability
+- Add new todo items
+- Display todos dynamically in a list
+- Remove completed todos
+- Simple and clean user interface
+- Edit todos
+- Toggle dark and light mode
+- Toggle Notifications
+- save data to convex (Real time changes)
 
-Styling using Flexbox and StyleSheet
+## 🧠 Learning Focus
 
-Features included:
+Through this project, I focused on writing clearer components, improving readability, and understanding how UI updates are driven by state changes in React Native.
 
-Dynamic UI rendering
+This project represents my current learning progress and my approach of learning by building, iterating, and improving step by step.
 
-User interaction handling
+---
 
-Clean and simple layout
-
-Responsive design principles
-
-Compared to my previous projects, I focused more on writing cleaner code and organizing components better.
-
-This project reflects my current learning progress and my commitment to improving my React Native skills step by step.
+📌 *This project is part of an ongoing learning process and is not intended to be a production-ready application.*
